@@ -2,9 +2,9 @@
 using namespace std;
                 /*   single inheritance
 
-                                     |class parent|
-                                      /       \
-                          |class child_1|    |class child2|     */
+                                     |class parent1|  |class parent2|
+                                               \        /
+                                             |class child|                 */
 
 class Student{
     public:
